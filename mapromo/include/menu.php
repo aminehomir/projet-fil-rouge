@@ -180,7 +180,7 @@
 					<div class="row">
 						<div class="col-md-12 main-wrap">
 							<div class="main-content">
-								<div id="home-slider" data-autorun="yes" data-duration="6000" class="carousel slide fade dhslider dhslider-custom " data-height="650">
+							<div id="home-slider" data-autorun="yes" data-duration="6000" class="carousel slide fade dhslider dhslider-custom " data-height="650">
 									<div class="dhslider-loader">
 										<div class="fade-loading">
 											<i></i><i></i><i></i><i></i>
@@ -191,12 +191,12 @@
 											<div class="slide-bg slide-bg-1"></div>  
 											<div class="slider-caption caption-align-left">
 												<div class="slider-caption-wrap">
-													<span class="slider-top-caption-text">Home Summer</span>
-													<h2 class="slider-heading-text">Stripe T-Shirt B &amp; W</h2>
-													<div class="slider-caption-text">NEW TREND AND COLLECTIONS</div>
+													<span class="slider-top-caption-text">Voyage de vacances de novembre</span>
+													<h2 class="slider-heading-text">ORGANISÉ A DUBAI à 10900 DH seulement</h2>
+													
 													<div class="slider-buttons">
-														<a href="#" class="btn btn-lg btn-white-outline">Detail</a>
-														<a href="#" class="btn btn-lg btn-white-outline">Buy Now</a>
+														
+														<a href="articledetail.php?id=43" class="btn btn-lg btn-white-outline">Découvrir</a>
 													</div>
 												</div>
 											</div>
@@ -205,12 +205,12 @@
 											<div class="slide-bg slide-bg-2"></div>  
 											<div class="slider-caption caption-align-right">
 												<div class="slider-caption-wrap">
-													<span class="slider-top-caption-text">Great daily deals</span>
-													<h2 class="slider-heading-text">LIMITED EDITION FOR UP TO 50% OFF</h2>
-													<div class="slider-caption-text">NEW TREND AND COLLECTIONS</div>
+													<span class="slider-top-caption-text">premier aperçu</span>
+													<h2 class="slider-heading-text"> NOUVEAU VOLKSWAGEN GOLF 8 2020 </h2>
+													
 													<div class="slider-buttons">
-														<a href="#" class="btn btn-lg btn-white">SEE MORE</a>
-														<a href="#" class="btn btn-lg btn-white-outline">GET NOW</a>
+														<a href="articledetail.php?id=21" class="btn btn-lg btn-white">Découvrir</a>
+														
 													</div>
 												</div>
 											</div>
