@@ -77,7 +77,7 @@ if(isset($_POST['submit'])){
 <div class="container-fluid">
         <div class="row">
             <div class="col-12">
-                <h1 class="text-center p-4">ajouter un article</h1>
+                <h1 class="text-center p-4">modifier un article</h1>
 
             </div>
             <div class="col-md-8 mx-auto">
@@ -136,7 +136,8 @@ if(isset($_POST['submit'])){
 
 
 
-    <?php include '../include/footer.php'; ?>
+    </div>
+    </div>
   
   </script>
  

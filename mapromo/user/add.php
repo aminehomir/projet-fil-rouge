@@ -147,10 +147,11 @@ if(isset($_POST['submit'])){
         </div>
     </div>
 
+    </div>
+    </div>
 
 
 
-    <?php include '../include/footer.php'; ?>
     <script type="text/javascript">
     function moreItems(button) {
     var maxItems = Number(button.attributes.cnt.value);

@@ -14,7 +14,7 @@ if(isset($_POST['submit'])){
     $res = $req->fetchColumn();
     if($res == 1){
         $_SESSION['user']=$user;
-        header('location:index2.php');
+        header('location:index.php');
     }else{
         header('location: login.php?message=error');
     }
